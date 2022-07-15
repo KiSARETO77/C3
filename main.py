@@ -1,6 +1,6 @@
 parameters = {
     "community-link": "http://aminoapps.com/c/KZX"
-
+}
 import os
 from base64 import b64encode
 from hmac import new
