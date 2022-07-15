@@ -1,6 +1,5 @@
 parameters = {
-    "community-link": "http://aminoapps.com/c/Rencontres17"
-}
+    "community-link": "http://aminoapps.com/c/KZX"
 
 import os
 from base64 import b64encode
